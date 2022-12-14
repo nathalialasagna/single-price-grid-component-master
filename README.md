@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://nath3010.github.io/single-price-grid-component-master/](https://nath3010.github.io/single-price-grid-component-master/)
 
 ## Built with
 
@@ -40,4 +40,3 @@ Users should be able to:
 
 - Linkedin - [Nathalia Dias de Souza](https://www.linkedin.com/in/nathalia-dias-de-souza-08964b130/)
 - Frontend Mentor - [@nath3010](https://www.frontendmentor.io/profile/nath3010)
-- GitHub - [@nath3010](https://github.com/nath3010)
