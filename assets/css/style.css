@@ -43,7 +43,6 @@ body {
 .community__description--yellow {
   color: hsl(71, 73%, 54%);
   font-weight: 700;
-  margin-bottom: 1rem;
 }
 
 .subscription {
@@ -128,6 +127,9 @@ body {
   .community {
     font-size: 0.9rem;
     padding-right: 1rem;
+  }
+  .community__description--yellow {
+    margin-bottom: 0.6em;
   }
   .community__title {
     font-size: 1.6em;
