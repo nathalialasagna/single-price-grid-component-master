@@ -18,7 +18,8 @@ body {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   border-radius: 10px;
-  width: 37%;
+  width: 50%;
+  max-width: fit-content;
   overflow: hidden;
 }
 
